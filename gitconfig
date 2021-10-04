@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = josenorte_83@hotmail.com
+	name = Jose Norte
